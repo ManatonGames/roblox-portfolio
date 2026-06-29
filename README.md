@@ -1,5 +1,7 @@
 # roblox-portfolio
 
+![Banner](assets/banner.png)
+
 # 👋 Hi, I'm Manaton
 
 ## Roblox Developer | Lua Programmer | Content Creator
@@ -50,6 +52,8 @@ I'm a Roblox developer from Colombia who enjoys creating engaging gameplay syste
 # Featured Projects
 
 ## +1 Speed Escape
+
+![Game](assets/speed-escape.png)
 
 A Roblox obby where players continuously gain speed while completing increasingly difficult stages.
 
